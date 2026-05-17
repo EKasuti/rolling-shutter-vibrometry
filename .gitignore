@@ -1,0 +1,15 @@
+# Videos (hosted on Google Drive)
+data/**/*.mov
+data/**/*.MOV
+data/**/*.mp4
+data/**/*.MP4
+
+# macOS
+.DS_Store
+data/**/.DS_Store
+
+# Python
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
