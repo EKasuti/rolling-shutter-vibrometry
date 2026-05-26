@@ -4,6 +4,10 @@ data/**/*.MOV
 data/**/*.mp4
 data/**/*.MP4
 
+# media display
+media/display/*.mp4
+media/display/*.wav
+
 # macOS
 .DS_Store
 data/**/.DS_Store
