@@ -17,3 +17,6 @@ venv/
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
+
+# Latex - using overleaf but want to ignore local build files
+*.tex
